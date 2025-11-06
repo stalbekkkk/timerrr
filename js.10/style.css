@@ -1,0 +1,22 @@
+.count{
+    border: 0px 0px 10px 13px white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+
+}
+body{background-color: rgba(114, 117, 121, 0.795);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.btns{
+    r
+}
